@@ -4,6 +4,12 @@ Welcome to documentation for contributors and developers.
 
 ## Getting started
 
+> **New contributors:**  
+> If you're new to Sugar Labs, we recommend starting with the
+> [How can I help?](src/how-can-i-help.md) guide and reviewing the
+> [Code of Conduct](src/CODE_OF_CONDUCT.md) before contributing.
+
+
 * [Code of Conduct](src/CODE_OF_CONDUCT.md)
 * [How can I help?](src/how-can-i-help.md)
 * [Contribute code](src/contributing.md)
